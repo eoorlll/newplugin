@@ -1,0 +1,3 @@
+# Demo Plugin
+
+Plugin description.
